@@ -1,2 +1,2 @@
 Background-Flip
-Change the background-color of page randomly.
+Changes the background-color of page randomly.
